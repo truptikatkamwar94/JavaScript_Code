@@ -21,5 +21,5 @@ console.log("Undefined variables==>",a)
 
 //const
 const age_2 = 23
-age_2 = 234
+// age_2 = 234 //can't reassign
 console.log("Consant variables==>",age_2)
