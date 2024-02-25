@@ -1,3 +1,4 @@
+//practice on objects in JS
 const product = {
     title : "Pen",
     rating : 4.5,
