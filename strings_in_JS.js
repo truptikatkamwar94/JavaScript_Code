@@ -28,3 +28,7 @@ console.log(s1.concat(s2))
 console.log(s1.slice(2,5))
 console.log(s1.replace('a',"T"))
 console.log(s1.replaceAll('a','T'))
+
+s="mndd"
+s[2]='c'//not work[immutable]
+console.log(s)
